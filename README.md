@@ -1,40 +1,36 @@
-# 👋 Hi, I'm Patrik
+👋 Hello, I'm Patrik
+I currently work as a teacher 📚 and have a great passion for programming 💻.
+I mainly focus on creating modern websites and web applications, particularly with Java and basic web technologies.
 
-I am currently working as a teacher 📚 and have a strong passion for programming 💻.  
-I mainly focus on **building modern websites and web applications**, especially with **Java** and fundamental **web technologies**.
+💼 Technologies & Tools
+☕ Java – Advanced knowledge
 
----
+🌱 Spring Boot – Basic knowledge (including REST APIs, Dependency Injection, Hibernate, Actuator, CRUD)
 
-## 💼 Skills & Tools
+🧑‍💻 Eclipse IDE – Efficient development and debugging
 
-- ☕ Java
-- 🌱 Spring Boot (Basic knowledge)
-- 🧑‍💻 Eclipse IDE
-- 🌐 HTML & CSS
-- 🤖 ChatGPT / AI (Basic knowledge in prompt crafting & usage)
+📦 Maven – Creating and managing Spring Boot projects
 
----
+🌐 HTML & CSS – Solid foundational knowledge
 
-## 🗣️ Languages
+🤖 ChatGPT / AI – Basic knowledge in prompt creation & usage
 
-- 🇸🇰 **Slovak** – Native  
-- 🇩🇪 **German** – Advanced (C1)  
-- 🇨🇿 **Czech** – Advanced  
-- 🇬🇧 **English** – Intermediate  
+🗣️ Language Skills
+🇸🇰 Slovak – Native
 
----
+🇩🇪 German – Advanced (C1)
 
-## 🌍 Portfolio
+🇨🇿 Czech – Advanced
 
-🔗 [Check out my portfolio](https://patodemjan.github.io/PortfolioModern/index.html)
+🇬🇧 English – Intermediate
 
----
+🌍 Portfolio
+🔗 View my portfolio
 
-## 📫 Contact
+📫 Contact
+💼 LinkedIn Profile
 
-- 📧 **Email:** [patodemjan@gmail.com](mailto:patodemjan@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/patrik-demjan-90602429b/)
+📧 Email: patodemjan@gmail.com
 
----
+Thank you for visiting my GitHub profile! ⭐
 
-Thanks for visiting my GitHub profile! ⭐  
