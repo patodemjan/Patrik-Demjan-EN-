@@ -18,10 +18,10 @@ I focus primarily on creating modern websites and web applications, especially w
 
 ## 🗣️ Language Skills
 
-🇸🇰 Slovak – Native
-🇩🇪 German – Advanced (C1)
-🇨🇿 Czech – Advanced
-🇬🇧 English – Intermediate
+- 🇸🇰 Slovak – Native
+- 🇩🇪 German – Advanced (C1)
+- 🇨🇿 Czech – Advanced
+- 🇬🇧 English – Intermediate
 
 ---
 
