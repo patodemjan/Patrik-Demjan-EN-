@@ -26,7 +26,7 @@ I focus primarily on creating modern websites and web applications, especially w
 ---
 
 ## 🌍 Portfolio
-🔗 [My Portfolio](https://patodemjan.github.io/PortfolioModern/index.html)
+🔗 [My Portfolio](https://patodemjan.github.io/Portfolio/index.html)
 
 ---
 
