@@ -5,7 +5,7 @@ I focus primarily on creating modern websites and web applications, especially w
 
 ---
 
-💼 Technologies & Tools
+## 💼 Technologies & Tools
 
 - ☕ Java – Advanced knowledge
 - 🌱 Spring Boot – Basic knowledge (including REST APIs, Dependency Injection, Hibernate, Actuator, CRUD)
@@ -16,7 +16,7 @@ I focus primarily on creating modern websites and web applications, especially w
 
 ---
 
-🗣️ Language Skills
+## 🗣️ Language Skills
 
 🇸🇰 Slovak – Native
 🇩🇪 German – Advanced (C1)
@@ -25,14 +25,14 @@ I focus primarily on creating modern websites and web applications, especially w
 
 ---
 
-🌍 Portfolio
-🔗 View my portfolio
+## 🌍 Portfolio
+🔗 [My Portfolio](https://patodemjan.github.io/PortfolioModern/index.html)
 
 ---
 
-📫 Contact
-💼 LinkedIn Profile
-📧 Email: patodemjan@gmail.com
+## 📫 Contact
+- 💼 [LinkedIn-Profil](https://www.linkedin.com/in/patrik-demjan-90602429b/)
+- 📧 **Email:** [patodemjan@gmail.com](mailto:patodemjan@gmail.com)
 
 ---
 
