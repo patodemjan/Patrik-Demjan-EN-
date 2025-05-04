@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [YOUR NAME HERE]
+# 👋 Hi, I'm Patrik
 
 I am currently working as a teacher 📚 and have a strong passion for programming 💻.  
 I mainly focus on **building modern websites and web applications**, especially with **Java** and fundamental **web technologies**.
