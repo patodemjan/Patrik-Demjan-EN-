@@ -14,6 +14,9 @@ I focus primarily on creating modern websites and web applications, especially w
 - 🌐 HTML & CSS – Solid foundational knowledge
 - 🤖 ChatGPT / AI – Basic knowledge in prompt creation & usage
 - 🧰 Visual Studio – Effizientes Entwickeln
+- 👨‍💻 Angular Basics knowledge (Routing, Components, Modules ...)
+- 🧠 TypeScript Basics
+- 🌿 Git & GitHub Basics
 
 ---
 
