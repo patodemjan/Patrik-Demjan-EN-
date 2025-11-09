@@ -10,6 +10,7 @@ I focus primarily on creating modern websites and web applications, especially w
 - ☕ Java – Advanced knowledge
 - 🌱 Spring + Spring Boot – Basic knowledge (including REST APIs, Dependency Injection, Hibernate, Actuator, CRUD)
 - 🧑‍💻 Eclipse IDE – Efficient development and debugging
+- 💡 IntelliJ IDEA – Efficient development with modern tools
 - 📦 Maven – Creating and managing Spring Boot projects
 - 🌐 HTML & CSS – Solid foundational knowledge
 - 🤖 ChatGPT / AI – Basic knowledge in prompt creation & usage
