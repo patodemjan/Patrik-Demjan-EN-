@@ -1,5 +1,11 @@
 👋 Hello, I'm Patrik
 
+### 🧠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,java,spring,angular,ts,maven,git,github,eclipse,idea,vscode,chatgpt" />
+
+---
+
 I am currently working as a teacher 📚 and have a strong passion for programming 💻.
 I focus primarily on creating modern websites and web applications, especially with Java and fundamental web technologies.
 
@@ -20,10 +26,6 @@ I focus primarily on creating modern websites and web applications, especially w
 - 🌿 Git & GitHub Basics
 
 ---
-
-### 🧠 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=html,css,java,spring,angular,ts,maven,git,github,eclipse,idea,vscode,chatgpt" />
 
 ## 🗣️ Language Skills
 
