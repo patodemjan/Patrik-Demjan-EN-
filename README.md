@@ -20,9 +20,10 @@ I focus primarily on creating modern websites and web applications, especially w
 - 🌿 Git & GitHub Basics
 
 ---
-Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,ts,angular,eclipse,git,github,vscode, spring boot, java, intelij, maven" />
 
+### 🧠 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,java,spring,angular,ts,maven,git,github,eclipse,idea,vscode,chatgpt" />
 
 ## 🗣️ Language Skills
 
